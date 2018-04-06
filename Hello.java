@@ -8,6 +8,6 @@ class Hello{
     
     A a1 = new A();
     System.out.println(a1.a);
-    
+    //print form class A
   }
 }
